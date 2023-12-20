@@ -17,4 +17,4 @@ I would always check the latest information online but currently (20.12.2023) th
 
 ![NotificationTimes](images/notification_times.png)
 
-![NotificationTimes](images/notification_times.png)
+![NotificationTimes](images/distances.png)
