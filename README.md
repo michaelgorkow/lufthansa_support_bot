@@ -15,7 +15,6 @@ If you want to read about one of these experiences, read my medium article:
 # What can you expect as compensation? 
 I would always check the latest information online but currently (20.12.2023) this is what you can expect according to [flightright.de](https://www.flightright.com/your-rights/flight-cancellation)
 
-[NotificationTimes](https://github.com/michaelgorkow/lufthansa_support_bot/tree/master/images/notification_times.png)
+![NotificationTimes](images/notification_times.png)
 
-[NotificationTimes](https://github.com/michaelgorkow/lufthansa_support_bot/tree/master/images/notification_times.png)
-
+![NotificationTimes](images/notification_times.png)
